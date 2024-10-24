@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Text Diff Tool",
+  "version": "1.0",
+  "description": "Compare text, JSON, and SQL with difference highlighting",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"]
+}

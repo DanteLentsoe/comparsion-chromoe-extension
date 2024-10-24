@@ -1,3 +1,4 @@
+
 # Text Comparison Tool
 
 A React TypeScript application for comparing and analyzing text differences. Built with React, TypeScript, and Tailwind CSS.
@@ -260,3 +261,4 @@ If you have any questions or need help, please:
 ---
 
 Made with ❤️ by [Dante Lentsoe](https://github.com/dantelentsoe)
+![Screenshot 2024-10-24 at 17 58 12](https://github.com/user-attachments/assets/0c751cfb-a01e-4523-ba07-75a1afd537d9)

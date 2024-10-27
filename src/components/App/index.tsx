@@ -154,7 +154,10 @@ export const DiffViewer = () => {
       <Card className="mb-4">
         <CardHeader>
           <CardTitle className="flex justify-between items-center">
-            <span>ParallelText</span>
+            <div className="text-2xl font-bold">
+              <span className={'text-[#003B5C]'}>PARALLEL</span>
+              <span className="text-[#00A4BD]">TEXT</span>
+            </div>
             <div className="flex gap-2">
               <Select
                 value={format}
